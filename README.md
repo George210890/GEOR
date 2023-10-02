@@ -3,4 +3,4 @@
 
 #### Hello!
 
-https://github.com/Monooks/Test_8.01_hw_neto/commit/c2be0a1af0c846135fdc1f92d958fb6a77099ee8
+https://github.com/George210890/GEOR/edit/main/README.md#test_801_hw_neto
