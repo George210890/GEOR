@@ -141,7 +141,7 @@ sudo systemctl status node-exporter
 
 Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 
 
-![Task2]([https://github.com/joos-net/prometheus/blob/main/graph2.png](https://github.com/George210890/GEOR/blob/main/graph2.png))
+![Task1]([https://github.com/George210890/GEOR/blob/main/graph2.png)
 
 ---
 
