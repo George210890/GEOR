@@ -90,7 +90,7 @@ sudo systemctl status prometheus
 
 ### Требования к результату
 
-Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
+Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 
 
 ![Task1](https://github.com/joos-net/prometheus/blob/main/graph1.png)
 
@@ -139,9 +139,9 @@ sudo systemctl status node-exporter
 
 ### Требования к результату
 
-Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 
 
-![Task2](https://github.com/joos-net/prometheus/blob/main/graph2.png)
+![Task2]([https://github.com/joos-net/prometheus/blob/main/graph2.png](https://github.com/George210890/GEOR/blob/main/graph2.png))
 
 ---
 
