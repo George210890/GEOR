@@ -92,7 +92,7 @@ sudo systemctl status prometheus
 
 Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 
 
-![Task1](https://github.com/joos-net/prometheus/blob/main/graph1.png)
+![Task1](https://github.com/George210890/GEOR/blob/main/graph2.png)
 
 
 ---
