@@ -167,8 +167,8 @@ systemctl restart prometheus
 1. Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 2. Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
 
-![Task3](https://github.com/joos-net/prometheus/blob/main/graph30.png)
-![Task31](https://github.com/joos-net/prometheus/blob/main/graph31.png)
+![Task3](https://github.com/George210890/GEOR/blob/main/graph30.png)
+![Task31](https://github.com/George210890/GEOR/blob/main/graph31.png)
 
 
 ---
