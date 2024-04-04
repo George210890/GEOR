@@ -52,7 +52,9 @@
    
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-### Ответ 2
+![image](https://github.com/George210890/GEOR/blob/main/Screenshot_5.png)
+![image](hhttps://github.com/George210890/GEOR/blob/main/Screenshot_6.png)
+![image](https://github.com/George210890/GEOR/blob/main/Screenshot_7.png)
 
 
 ### Задание 3
